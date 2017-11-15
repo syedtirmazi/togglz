@@ -1,0 +1,36 @@
+### JAVA ###
+.class
+.dll
+.jar
+.war
+.ear
+
+## LOG ###
+*.log
+
+### SQL ###
+.sql
+
+### GRADLE ###
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### IDE ###
+.idea
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### MISC ###
+.db
+.bak
+.orig
+.ini
+.zip
+.7z
+.gz
+.rar
