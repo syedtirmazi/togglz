@@ -19,7 +19,6 @@
 ### IDE ###
 /bin/
 /target/
-/out/
 *.idea
 *.apt_generated
 *.classpath
